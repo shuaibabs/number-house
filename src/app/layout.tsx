@@ -10,7 +10,7 @@ import { FirebaseErrorListener } from '@/components/FirebaseErrorListener';
 import { NavigationProvider } from '@/context/navigation-context';
 
 export const metadata: Metadata = {
-  title: 'Hashmi VIP Numbers',
+  title: 'Number House',
   description: 'Number Management System',
 };
 
